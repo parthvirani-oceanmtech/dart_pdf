@@ -38,7 +38,7 @@ dependencies:
     git:
       url: https://github.com/parthvirani-oceanmtech/dart_pdf.git
       ref: HEAD
-      resolved-ref: "378571ed8cbe34cb9d6c7c916c36cf211a66e74c"
+      resolved-ref: "e6401b3eb98cf3396224e2ba2925986c05745b93"
       path: pdf
   pdf_widget_wrapper: ">=1.0.0 <2.0.0"
   plugin_platform_interface: ^2.1.0
